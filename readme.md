@@ -140,6 +140,7 @@ streamlit run streamlit_app.py
 ---
 
 # 📸 預覽畫面
+<img width="1850" height="786" alt="image" src="https://github.com/user-attachments/assets/f2db31e1-6744-4a83-b73d-3f0fe4f84453" />
 
 *(您可以在此處插入應用程式的螢幕截圖)*
 
